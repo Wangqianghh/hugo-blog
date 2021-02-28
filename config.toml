@@ -2,7 +2,7 @@
 # And see https://gohugo.io/getting-started/configuration/ .
 
 baseURL = "https://heemooo.gitee.io/"
-title = "景阳冈上挨过打"
+title = "木儿羊"
 theme= "hugo-theme-amaze"
 enableRobotsTXT = true
 enableEmoji = true
@@ -47,7 +47,7 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  SubTitle="逍遥天地外，不在五行中"
+  SubTitle="沧海一粟"
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "2006-01-02"
   [params.social]                                         # 社交链接
