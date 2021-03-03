@@ -9,16 +9,12 @@ weight: 50
 comment: false
 mathjax: false
 ---
+### 基础框架
 
-Hugo is a static site engine written in Go.
+https://www.gohugo.org/theme/cocoa/
 
+### 使用主题
 
-It makes use of a variety of open source projects including:
+简书： https://www.jianshu.com/p/84adf9b3a1d2
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
+git：https://github.com/Heemooo/hugo-theme-amaze
