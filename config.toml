@@ -42,7 +42,7 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   url = "/categories.html"
 [params]
   backgroundUrl = "/images/back.jpeg"
-  logo = "/img/logo.png"
+  logo = "/img/niu.jpeg"
   since = "2021"            # Site creation time          # 站点建立时间
   homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
